@@ -8,7 +8,7 @@ You can build and start the project without doing anything. It will crash the fi
 
 You obviously need a google spreadsheet. You can use ours as a reference (File -> Make a copy... to create your own). https://docs.google.com/spreadsheets/d/1uDXxp_RWMi17fI54keOLQDMYeVaRmRdc1lWDTxaEmu0
 
-In Column A you find the activities, games, whatever you or your friends want to play. Change them as you want.
+In Column A you can find the activities, games, whatever you or your friends want to play. Change them as you want.
 
 In Column B to D every person writes numbers. You can define your own range (ours is from 0 to 1). This Number represents a weight how likely the person wants to play the game from column A. (be carefull with cheaters here :P) If you are alone, or two people, just delete the unnecessary entries.
 
@@ -16,7 +16,7 @@ Column E is emty. (who could have thought)
 
 In Column F to H are some calculations. Column G shows how likely it is, that this row will be the winner. The sum of column G must be 1!
 
-#How it works
+# How it works
 
 Basically the App throws a dice with 10000 sides. The game that is in range of the thrown number gets a point. First one that has 3 points is the winner.
 
